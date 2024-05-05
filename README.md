@@ -13,4 +13,3 @@ Simply run the Commands in MySQL workbench or your preferred IDE
 ## License
 
 There is currently no license on this project
-t 
