@@ -279,3 +279,10 @@ ORDER BY Total_Profits_By_Quarter DESC;
 
 --@block
 SELECT * FROM tab_1;
+
+
+--@block 
+--I've finished the challenge successfully
+-- It was an awesome run
+-- On to better things it seems....Ciao
+
